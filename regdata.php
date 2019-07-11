@@ -21,9 +21,10 @@
                              {
                             ?> <html>
                                  <head>
-			           <h1> <center> REGISTRATION SUCCESS </center></h1>
-			             <p><a href="loginform.php"><b>CLICK TO LOGIN </b></a></p>
+			             </head>
 			          <body>
+					  <h1> <center> REGISTRATION SUCCESS </center></h1>
+			                 <p><a href="loginform.php"><b>CLICK TO LOGIN </b></a></p>
 		                	<style type="text/css">
                                           body {
                                            background-color: #f4f4f4;
@@ -43,7 +44,7 @@
                                           }
 			      	      </style>
 				   </body>
-			       </head>
+			     
 			    </html>
                        <?php      
                         }
